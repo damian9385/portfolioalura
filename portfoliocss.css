@@ -1,0 +1,436 @@
+.body{
+    width: 849px;
+    background: rgb(233, 231, 231);
+    margin: 0;
+}
+
+.header {
+    background-color: rgb(63, 205, 50);
+    padding: 20px 500px 30px 0px;
+    width: 849px;   
+}
+
+.h1{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 25px;  
+}
+
+.caja{
+    width: 940px;
+    position: relative;
+    margin: 20px 10px;
+}
+
+.navegador{
+    position: absolute;
+    top: 0px;
+    right: -150px;
+}
+
+.navegador li {
+    position: relative;
+    display: inline;
+    margin-left: 10px;   
+}
+
+.navegador a{
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #c78c19;
+    text-decoration: underline;
+}
+
+
+
+.entrada{
+    margin-left:100px;
+    margin-top: 180px;
+    font-size: 40px;
+    width: 50%;
+    height: 90px;
+    font-weight: bold;
+    width: 751px;
+    
+}
+
+.entradaa{
+    
+    height: 90px;
+    margin-left:100px ;
+    font-size: 25px;
+    width: 751px;  
+}
+
+.foto{
+    position: relative;
+    width:350px;
+    height: 350px;
+    border-radius: 100%;
+    float: right;
+    top: -280px; 
+    margin-right: -300px;
+    
+ }
+
+ 
+
+.sobremi h2{
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 200px;
+    margin-left:100px;
+    
+    
+}
+.yo{
+    margin-top: 10px;
+    font-size: 25px;
+    margin-left:100px;
+    
+}
+
+.skills h2{
+    font-size: 40px;
+    margin-left: 610px;
+    margin-top: 200px;
+
+
+}
+
+.html{
+    position: relative;
+    width: 60px;
+    height: 70px;
+    margin-left: 173px;
+    margin-top:-400px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    display: inline-block;
+    left: 215px;
+    top: 250px;   
+}
+
+.hobbies h2{
+    position: relative;
+    font-size: 40px;
+    margin-left: 595px;
+    margin-top: 470px;
+}
+
+.gymfutbol{
+    position: relative;
+    width: 60px;
+    height: 70px;
+    margin-left: 92px;
+    margin-top:-400px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    display: inline-block;
+    left: 458px;
+    top: 250px;
+    
+}
+
+
+.formacion{
+    font-size: 40px;
+    margin-left: 570px;
+    margin-top: 470px;
+}
+
+.alura{
+    position: relative;
+    width: 250px;
+    height: 250px;
+    margin-left: 293px;
+    margin-top:-400px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    left: 240px;
+    top: 300px;
+}
+
+.pformacion{
+    position: relative;
+    font-weight: bold;
+    padding: 15px;
+    margin-left: 547px;
+    top: 310px;
+}
+ 
+.proyectos{
+    font-size: 40px;
+    margin-left: 570px;
+    margin-top: 470px;
+}
+
+.encriptador{
+    width: 700px;
+    height: 400px;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.encriptexto{
+    position: relative;
+    left: 810px;
+    width: 200px;
+    font-size: 22px;
+    font-weight: bold;
+    top: -200px;  
+}
+
+.encriptexto1{
+    position: relative;
+    left: 810px;
+    width: 200px;
+    top: -195px;
+}
+
+.repositorio{
+    position: relative;
+    left: 810px;
+    width: 100px;
+    height: 50px;
+    top: -173px;
+    background: #F5F5F5;
+    color: blue;
+    border: none;
+}
+
+.repositorio:hover{
+    background: rgba(245, 245, 245, 0.623);
+    transition: 500ms background;
+}
+
+.demo{
+    position: relative;
+    left: 810px;
+    width: 100px;
+    top: -173px;
+    height: 50px;
+    background: blue;
+    color: white;
+    border: none;
+}
+
+.demo:hover{
+    background: darkblue;
+    transition: 500ms background;
+}
+
+.ahorcado{
+    position: relative;
+    width: 700px;
+    height: 400px;
+    margin-top: 70px;
+    left: 400px;
+}
+
+.juegotexto{
+    position: relative;
+    left: 130px;
+    width: 300px;
+    font-size: 22px;
+    font-weight: bold;
+    top: -200px;  
+}
+
+.oracletexto{
+    position: relative;
+    left: 130px;
+    right: 800px;
+    width: 200px;
+    top: -195px;
+}
+
+.repositorio1{
+    position: relative;
+    left: 130px;
+    width: 100px;
+    height: 50px;
+    top: -190px;
+    background: #F5F5F5;
+    color: blue;
+    border: none;
+}
+
+.repositorio1:hover{
+    background: rgba(245, 245, 245, 0.623);
+    transition: 500ms background;
+}
+
+
+.demo1{
+    position: relative;
+    left: 130px;
+    width: 100px;
+    top: -190px;
+    height: 50px;
+    background: blue;
+    color: white;
+    border: none;
+}
+
+.demo1:hover{
+    background: darkblue;
+    transition: 500ms background;
+}
+
+
+.contactos h2{
+    position: relative;
+    font-weight: bold;
+    font-size: 32px;
+    /*margin-top: 100px;*/
+    left: 550px;
+    width: 150px;
+    
+}
+
+.contactos img{
+    position: absolute;
+    width: 350px;
+    height: 460px;
+    float: left;
+    margin-top: -80px;
+    left: 180px;   
+}
+
+.contactos p{
+    position: relative;
+    font-size: 15px;
+    margin-top: 10px;
+    left: 550px;
+    width: 550px;
+    
+}
+
+.info, .textarea{
+    position: relative;
+    display: block;
+    left: 529px;
+    margin: 27px;
+    padding: 10px;
+    width: 550px;
+    /*top: -360px;*/
+      
+}
+
+.warnings{
+    width: 200px;
+    text-align: center;
+    color: red;
+    
+}
+
+.desarrollo{
+    /*margin-top: -350px;*/
+    padding: 32px;
+    background-color: rgb(63, 205, 50);
+    text-align: center;
+    width: 1280px;
+         
+}
+
+ @media screen and (max-width:980px) {
+    .desarrollo, .caja, .entrada, .entradaa, .body .header{
+        width: auto;
+    }
+
+    .h1, .navegador, .entrada, .entradaa{
+        font-size: 35px;
+        position: relative;
+        width: auto;
+        right: 0;
+    }
+
+    .navegador li, .entrada, .entradaa{
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .foto{
+        top: 25px;
+        width: auto;
+        margin-right: 157px;
+    }
+
+    .sobremi h2{
+        margin-top: 390px;
+    }
+
+    .yo{
+        font-size: 35px;
+    }
+    .skills h2{
+        margin-top: 20px;
+        margin-left: 400px;
+    }
+    .html{
+        top: 80px;
+        left: 5px;
+    }
+    .gymfutbol{
+        top: 80px;
+        left: 248px;
+    }
+    .hobbies h2, .formacion{
+        margin-top: 100px;
+        margin-left: 378px;
+    }
+    .alura{
+        left: 50px;
+        top: 250px;
+    }
+    .pformacion{
+        top: 250px;
+        font-size: 25px;
+        padding: 0;
+        left: -224px;
+    }
+    .proyectos{
+        margin-top: 250px;
+        margin-left: 378px;
+    }
+
+    .encriptador, .ahorcado{
+        margin-top: 0;
+        width: auto;
+        left: 0;
+    }
+    .contactos img{
+        display: none;
+    }
+    .encriptexto, .encriptexto1, .repositorio, .demo, .juegotexto, .repositorio1, .demo1, .oracletexto, .contactos h2, .contactos p{
+        left: 0;
+        top: 0;
+        right: 0;
+       
+    }
+    
+    .info, .textarea{
+        left: 60px;
+        padding: 0;
+        margin: 27px;
+        top: 47px;
+        width: auto;
+        font-size: 25px;
+        
+    }
+    .desarrollo{
+        font-size: 25px;
+        margin-top: 69px;
+    }
+ }
+
+
+
